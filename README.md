@@ -23,12 +23,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/branson-bazungu-31a4239b)&nbsp;
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)&nbsp;
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF&label=profile+views)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:bbazungu@gmail.com)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=branson219&style=flat-square&color=58A6FF&label=profile+views)
 
 </div>
 
@@ -48,19 +47,20 @@ My research centres on a question I consider urgent and underexplored: *how can 
 
 **Professional roles:**
 - 🏛️ Librarian & Part-Time Lecturer — *University of Edenberg, Zambia*
-- 🎓 MSc Information Systems candidate — *University of Zambia*
-- 📊 Research & Monitoring and Evaluation Professional
+- 🎓 MSc Information Systems Student — *University of Zambia*
+- 📊 Monitoring, Evaluation, Research and Learning Professional
 
 **Academic formation:**
+- `MSc.` Information Information Systems (On-going)
 - `BA` Information Science & Development Studies
-- `Cert.` Monitoring & Evaluation
+- `Cert.` Monitoring, Evaluation, Accountability & Learning
 
 **Coordinates:** Lusaka, Zambia 📍
 
 </td>
 <td valign="top" width="42%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=branson219&layout=compact&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Top Languages"/>
 
 <br/>
 
@@ -180,13 +180,13 @@ institution           = "University of Zambia (MSc) · University of Edenberg"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=branson219&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&border=30363d&border_radius=8&hide_border=false&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="175" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=branson219&theme=github-dark-blue&border=30363d&border_radius=8&hide_border=false&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="175" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0d1117&color=58A6FF&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&border_radius=8&hide_border=false" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=branson219&theme=github-compact&bg_color=0d1117&color=58A6FF&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&border_radius=8&hide_border=false" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -210,7 +210,7 @@ institution           = "University of Zambia (MSc) · University of Edenberg"
 
 <br/>
 
-> *My MSc thesis investigates the design and evaluation of an Intelligent Decision Support System for early literacy risk identification in Zambian primary schools — integrating machine learning, information systems design theory, and participatory research methods.*
+> *For my MSc thesis, I am considering investigating the design and evaluation of an Intelligent Decision Support System for early literacy risk identification in Zambian primary schools — integrating machine learning, information systems design theory, and participatory research methods.*
 
 </details>
 
@@ -240,11 +240,10 @@ institution           = "University of Zambia (MSc) · University of Edenberg"
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Branson_Bazungu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Branson_Bazungu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/branson-bazungu-31a4239b)&nbsp;
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)&nbsp;
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbazungu@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
