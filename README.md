@@ -1,18 +1,16 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=false&width=750&lines=Hi%2C+I'm+Branson+Bazungu+%F0%9F%91%8B;Information+Systems+%7C+AI+%7C+Research;Building+Africa's+Digital+Future+%F0%9F%8C%8D;Librarian+%C2%B7+Lecturer+%C2%B7+MSc+Candidate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=false&width=750&lines=Hi%2C+I'm+Branson+Bazungu+%F0%9F%91%8B;Strategic+Information+Systems+%7C+AI+%7C+Research+%7C+Knowledge+Management+%7C+Enthusiast;Building+Africa's+Digital+Future+%F0%9F%8C%8D;Librarian+%C2%B7+Lecturer+%C2%B7+MSc+IS+Student)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile badges row -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=bransonb219&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/branson-bazungu-31a4239b)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbazungu@gmail.com)
 
 <br/>
 
@@ -22,7 +20,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" alt="Top Languages" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bransonb219&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" alt="Top Languages" />
 
 I am a **Librarian and Part-Time Lecturer** at the **University of Edenberg**. At the same time, I am a **MSc Information Systems Student** at the University of Zambia.
 
@@ -112,13 +110,13 @@ My work sits at the intersection of **information science, artificial intelligen
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bransonb219&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bransonb219&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak" />
 
 <br/><br/>
 
-[![Branson's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&border_radius=12&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Branson's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bransonb219&theme=tokyo-night&border_radius=12&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -168,11 +166,7 @@ I'm open to **research collaborations**, **open-source contributions**, **academ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Branson%20Bazungu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/branson-bazungu-31a4239b)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-branson%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbazungu@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-&nbsp;
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE)
+[![Email](https://img.shields.io/badge/Email-bbazungu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbazungu@gmail.com)
 
 <br/><br/>
 
@@ -182,6 +176,6 @@ I'm open to **research collaborations**, **open-source contributions**, **academ
 
 <br/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2F81F7&label=Total+Profile+Views)
+![Visitor Badge](https://komarev.com/ghpvc/?username=bransonb219&style=flat-square&color=2F81F7&label=Total+Profile+Views)
 
 </div>
