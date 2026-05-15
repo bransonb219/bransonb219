@@ -1,65 +1,76 @@
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║          BRANSON BAZUNGU — GitHub Profile README                 ║
+║          AI Engineer · IS Researcher · African Technologist      ║
+║          https://github.com/bransonb219, https://linkedin.com/in/branson-bazungu-31a4239b,            ║
+║          bbazungu@gmail.com                                      ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=false&width=750&lines=Hi%2C+I'm+Branson+Bazungu+%F0%9F%91%8B;Information+Systems+%7C+AI+%7C+Research+%7C+MEALK;Building+Africa's+Digital+Future+%F0%9F%8C%8D;Librarian+%C2%B7+Lecturer+%C2%B7+MSc+IS+Student)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Profile badges row -->
-![Profile Views](https://komarev.com/ghpvc/?username=bransonb219&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/branson-bazungu-31a4239b)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbazungu@gmail.com)
-
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:2F81F7&height=200&section=header&text=Branson%20Bazungu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Information%20Systems%20Researcher%20%E2%80%A2%20African%20Technologist&descAlignY=60&descSize=16&descColor=8b949e&animation=fadeIn" width="100%" alt="Header"/>
 
 </div>
 
-## 🧭 About Me
+<div align="center">
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bransonb219&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" alt="" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Designing+intelligent+systems+for+Africa%27s+institutions;Predictive+ML+%C2%B7+Decision+Support+Systems+%C2%B7+Digital+Libraries;MSc+Information+Systems+%40+University+of+Zambia;Where+AI+research+meets+purposeful+engineering)](https://git.io/typing-svg)
 
-I am a **Librarian and Part-Time Lecturer** at the **University of Edenberg**. At the same time, I am a **MSc Information Systems Student** at the University of Zambia.
+</div>
 
-My work sits at the intersection of **information science, artificial intelligence, and development research**. I believe technology — when purposefully designed — is the most powerful lever for Africa's institutional and societal transformation.
+<br/>
 
-- 🎓 **MSc Information Systems** — University of Zambia *(in progress)*
-- 📚 **BA Information Science & Development Studies**
-- 📊 **Certificate in Monitoring & Evaluation**
-- 🏛️ **Librarian & Part-Time Lecturer** — University of Edenberg
-- 🔬 **Research & M&E Professional** with applied field experience
-- 🌍 Committed to building **scalable, African-context technology solutions**
+<div align="center">
 
-<br clear="right"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)&nbsp;
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF&label=profile+views)
+
+</div>
+
+<br/>
 
 ---
 
-## 🚀 Current Focus
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td valign="top" width="58%">
 
-### 🛠️ Currently Building
+## `whoami`
 
-- 🤖 **AI-Powered Library Management System** — Intelligent cataloguing, recommendation, and access analytics for academic libraries
-- 🧠 **Intelligent DSS for At-Risk Learners** — Predictive analytics model to identify early literacy challenges in Zambian schools
-- 💼 **Job & Services Platform** — Connecting Zambian professionals with institutional opportunities
-- 🏫 **University Digital Transformation Initiatives** — Modernising systems at University of Edenberg
+I build **intelligent information systems** for high-stakes institutional environments — academic libraries, educational bodies, and development organisations across Sub-Saharan Africa.
+
+My research centres on a question I consider urgent and underexplored: *how can AI and decision-support systems be designed to work within the resource, language, and data constraints of African institutions — and not merely be imported from elsewhere?*
+
+**Professional roles:**
+- 🏛️ Librarian & Part-Time Lecturer — *University of Edenberg, Zambia*
+- 🎓 MSc Information Systems candidate — *University of Zambia*
+- 📊 Research & Monitoring and Evaluation Professional
+
+**Academic formation:**
+- `BA` Information Science & Development Studies
+- `Cert.` Monitoring & Evaluation
+
+**Coordinates:** Lusaka, Zambia 📍
 
 </td>
-<td width="50%">
+<td valign="top" width="42%" align="center">
 
-### 📖 Currently Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Top Languages"/>
 
-- 🐍 **Python for Data Science & ML** — scikit-learn, pandas, Jupyter
-- ⚡ **Vue.js / Inertia.js** — Modern Laravel SPA development
-- 🧩 **System Architecture & Design Patterns** — DDD, microservices concepts
-- 🤖 **Applied AI & LLM Integration** — API-driven AI features in web apps
-- 📊 **Advanced Research Methods** — Quantitative IS research & analysis
+<br/>
+
+```text
+🌍  Lusaka, Zambia          [UTC+2]
+🔭  Current focus           AI · IS · EdTech
+💡  Research axis           Intelligent DSS
+🛠️  Primary stack           PHP / Laravel / Python
+📬  Open to                 Research · Collab · OSS
+```
 
 </td>
 </tr>
@@ -67,115 +78,178 @@ My work sits at the intersection of **information science, artificial intelligen
 
 ---
 
-## 🧰 Tech Stack
+## Research & Engineering Focus
+
+> I operate at the junction of **applied AI**, **information systems theory**, and **institutional software engineering**. The problems I work on are messy, context-dependent, and consequential — which is exactly why they interest me.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**`[01]` Predictive Analytics for Early Literacy**
+Designing an ML-assisted Decision Support System to identify at-risk learners in Zambian primary schools. Combines structured institutional data with predictive modelling to enable early, targeted intervention.
+`Python` · `scikit-learn` · `Laravel API` · `MySQL`
+
+---
+
+**`[02]` AI-Powered Library Management System**
+Rebuilding the academic library experience from the ground up — intelligent cataloguing, usage analytics, and recommendation systems tailored to the constraints of under-resourced African universities.
+`Laravel` · `OpenAI API` · `MySQL` · `REST`
+
+</td>
+<td width="50%" valign="top">
+
+**`[03]` Job & Professional Services Platform**
+A structured platform connecting Zambian professionals and institutions — solving a discovery and trust problem that generic platforms ignore for this market.
+`Laravel` · `Vue.js` · `MySQL`
+
+---
+
+**`[04]` University Digital Transformation**
+Working from the inside — collaborating with faculty and administration at University of Edenberg to modernise institutional systems, workflows, and data infrastructure.
+`Systems Analysis` · `IS Strategy` · `Change Management`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Repertoire
 
 <div align="center">
 
-### Languages & Frameworks
+**Core Engineering**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Databases & DevOps
+**Data & Intelligence**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Research, Data & Productivity
+**Infrastructure & Tooling**
 
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### AI & Analytics Exploration
+**Research & Academic**
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Currently Deepening
+
+```python
+learning_roadmap = {
+    "ML Engineering":    ["model evaluation", "feature engineering", "MLflow"],
+    "System Design":     ["distributed systems", "API architecture", "DDD"],
+    "AI Integration":    ["LLM APIs", "RAG pipelines", "prompt engineering"],
+    "Frontend":          ["Vue.js", "Inertia.js", "Tailwind CSS"],
+    "Research Methods":  ["quantitative IS research", "mixed methods", "SEM"],
+}
+
+current_thesis_domain = "Intelligent DSS · Predictive Analytics · EdTech"
+location              = "Lusaka, Zambia"
+institution           = "University of Zambia (MSc) · University of Edenberg"
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bransonb219&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bransonb219&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&border=30363d&border_radius=8&hide_border=false&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="175" alt="Streak Stats"/>
 
 <br/><br/>
 
-[![Branson's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bransonb219&theme=tokyo-night&border_radius=12&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0d1117&color=58A6FF&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&border_radius=8&hide_border=false" width="95%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 🔬 Research & Academic Interests
+## Research Domains
 
 <details>
-<summary><b>📌 Expand: Research Focus Areas</b></summary>
+<summary><b>View research areas & academic positioning →</b></summary>
 
 <br/>
 
-| Domain | Focus |
-| --- | --- |
-| 🧠 **Intelligent Decision Support Systems** | Designing AI-assisted tools for institutional decision-making in African educational contexts |
-| 📚 **Digital Libraries & Knowledge Management** | Leveraging technology to transform academic library services and access |
-| 📊 **Monitoring & Evaluation** | Data-driven frameworks for assessing programme impact in development sectors |
-| 🔮 **Predictive Analytics in Education** | Using machine learning to detect at-risk learners and enable early intervention |
-| 🌐 **Information Systems in Development** | Exploring IS theory and practice within the unique constraints of emerging economies |
-| 🤖 **AI Ethics & Responsible Innovation** | Ensuring AI adoption in Africa is equitable, transparent, and contextually grounded |
+| Domain | Orientation |
+|:---|:---|
+| **Intelligent Decision Support Systems** | Designing AI-assisted frameworks for institutional decision-making in resource-constrained African contexts — with emphasis on explainability and actionability |
+| **Predictive Analytics in Education** | Applied ML for early identification of learning risk, dropout prediction, and academic intervention targeting in Sub-Saharan school systems |
+| **Digital Libraries & Knowledge Architecture** | Rethinking academic library infrastructure using semantic technologies, AI-driven retrieval, and usage-pattern analytics |
+| **Information Systems in Development** | Applying IS theory and sociotechnical systems thinking to the unique institutional realities of emerging economies |
+| **AI Ethics & Responsible Innovation** | Examining fairness, transparency, and contextual validity of AI systems deployed in African public-sector and educational settings |
+| **Monitoring & Evaluation Systems** | Data-driven M&E frameworks that go beyond compliance reporting toward genuine learning and adaptive programme management |
 
-> *My MSc research explores the design and implementation of intelligent information systems that address real challenges in Zambian academic and institutional environments.*
+<br/>
+
+> *My MSc thesis investigates the design and evaluation of an Intelligent Decision Support System for early literacy risk identification in Zambian primary schools — integrating machine learning, information systems design theory, and participatory research methods.*
 
 </details>
 
 ---
 
-## 🌍 Mission Statement
-
 <div align="center">
 
-> *"Africa's development challenges are, at their core, information and systems problems. My work is to sit at that intersection — to design intelligent, evidence-based, and human-centred systems that empower institutions, support learners, and transform how knowledge is created and shared on this continent."*
->
-> **— Branson Bazungu**
+## On the Work
+
+*"The hardest part of building for Africa isn't the engineering — it's the epistemic honesty required to resist solutions designed for different contexts. I'm interested in systems that are genuinely fit for purpose: built with local data, informed by local expertise, and accountable to local institutions.*
+
+*That's not a limitation. That's a design constraint that makes the work harder and more interesting."*
+
+&nbsp;
+
+**Branson Bazungu** · Lusaka, Zambia
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <div align="center">
 
-I'm open to **research collaborations**, **open-source contributions**, **academic discussions**, and **project partnerships** — especially those focused on African technology, EdTech, and intelligent information systems.
+**Open to:** research collaboration · technical partnerships · open-source contributions · speaking · peer review
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Branson%20Bazungu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/branson-bazungu-31a4239b)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-bbazungu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbazungu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Branson_Bazungu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_RESEARCHGATE)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)&nbsp;
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 
-<br/><br/>
-
----
-
-<sub>📍 Lusaka, Zambia &nbsp;|&nbsp; 🏛️ University of Edenberg &nbsp;|&nbsp; 🎓 University of Zambia</sub>
+</div>
 
 <br/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=bransonb219&style=flat-square&color=2F81F7&label=Total+Profile+Views)
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,50:1a1f35,100:0d1117&height=100&section=footer&reversal=false" width="100%" alt="Footer"/>
 </div>
