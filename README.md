@@ -20,7 +20,7 @@
 
 ## 🧭 About Me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bransonb219&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" alt="Top Languages" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bransonb219&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&langs_count=8" alt="" />
 
 I am a **Librarian and Part-Time Lecturer** at the **University of Edenberg**. At the same time, I am a **MSc Information Systems Student** at the University of Zambia.
 
@@ -110,7 +110,7 @@ My work sits at the intersection of **information science, artificial intelligen
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bransonb219&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bransonb219&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="" />
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=bransonb219&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak" />
 
