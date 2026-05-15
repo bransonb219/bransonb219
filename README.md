@@ -2,7 +2,8 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║          BRANSON BAZUNGU — GitHub Profile README                 ║
 ║          AI Engineer · IS Researcher · African Technologist      ║
-║          https://github.com/bransonb219, https://linkedin.com/in/branson-bazungu-31a4239b,            ║
+║          https://github.com/bransonb219,                         ║
+║          https://linkedin.com/in/branson-bazungu-31a4239b,       ║
 ║          bbazungu@gmail.com                                      ║
 ╚══════════════════════════════════════════════════════════════════╝
 -->
@@ -56,21 +57,6 @@ My research centres on a question I consider urgent and underexplored: *how can 
 - `Cert.` Monitoring, Evaluation, Accountability & Learning
 
 **Coordinates:** Lusaka, Zambia 📍
-
-</td>
-<td valign="top" width="42%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=branson219&layout=compact&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&langs_count=8&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Top Languages"/>
-
-<br/>
-
-```text
-🌍  Lusaka, Zambia          [UTC+2]
-🔭  Current focus           AI · IS · EdTech
-💡  Research axis           Intelligent DSS
-🛠️  Primary stack           PHP / Laravel / Python
-📬  Open to                 Research · Collab · OSS
-```
 
 </td>
 </tr>
@@ -180,13 +166,13 @@ institution           = "University of Zambia (MSc) · University of Edenberg"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=branson219&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bransonb219&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=branson219&theme=github-dark-blue&border=30363d&border_radius=8&hide_border=false&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="175" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bransonb219&theme=github-dark-blue&border=30363d&border_radius=8&hide_border=false&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="175" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=branson219&theme=github-compact&bg_color=0d1117&color=58A6FF&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&border_radius=8&hide_border=false" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bransonb219&theme=github-compact&bg_color=0d1117&color=58A6FF&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&border_radius=8&hide_border=false" width="95%" alt="Activity Graph"/>
 
 </div>
 
