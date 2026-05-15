@@ -47,9 +47,9 @@ I build **intelligent information systems** for high-stakes institutional enviro
 My research centres on a question I consider urgent and underexplored: *how can AI and decision-support systems be designed to work within the resource, language, and data constraints of African institutions — and not merely be imported from elsewhere?*
 
 **Professional roles:**
-- 🏛️ Librarian & Part-Time Lecturer — *University of Edenberg, Zambia*
-- 🎓 MSc Information Systems Student — *University of Zambia*
-- 📊 Monitoring, Evaluation, Research and Learning Professional
+- 🏛️ Librarian & Part-Time Lecturer — University of Edenberg, Zambia
+- 📊 Monitoring, Evaluation, Research & Learning (MERL) Consultant
+- 🤖 AI-driven Information Systems & Decision Support
 
 **Academic formation:**
 - `MSc.` Information Information Systems (On-going)
@@ -72,28 +72,28 @@ My research centres on a question I consider urgent and underexplored: *how can 
 <tr>
 <td width="50%" valign="top">
 
-**`[01]` Predictive Analytics for Early Literacy**
-Designing an ML-assisted Decision Support System to identify at-risk learners in Zambian primary schools. Combines structured institutional data with predictive modelling to enable early, targeted intervention.
-`Python` · `scikit-learn` · `Laravel API` · `MySQL`
+**`[01]` Intelligent Educational Systems**
+Exploring data-driven approaches for educational decision support within resource-constrained institutional environments.
+`Python` · `Machine Learning` · `Data Systems`
 
 ---
 
-**`[02]` AI-Powered Library Management System**
-Rebuilding the academic library experience from the ground up — intelligent cataloguing, usage analytics, and recommendation systems tailored to the constraints of under-resourced African universities.
-`Laravel` · `OpenAI API` · `MySQL` · `REST`
+**`[02]` AI-Augmented Knowledge Systems**
+Building modern information and library technologies designed for scalability, accessibility, and institutional relevance.
+`Laravel` · `REST APIs` · `Database Systems`
 
 </td>
 <td width="50%" valign="top">
 
-**`[03]` Job & Professional Services Platform**
-A structured platform connecting Zambian professionals and institutions — solving a discovery and trust problem that generic platforms ignore for this market.
-`Laravel` · `Vue.js` · `MySQL`
+**`[03]` Digital Platforms & Service Infrastructure**
+Developing structured digital ecosystems that improve professional access, coordination, and service delivery.
+`Full-Stack Development` · `Web Systems`
 
 ---
 
-**`[04]` University Digital Transformation**
-Working from the inside — collaborating with faculty and administration at University of Edenberg to modernise institutional systems, workflows, and data infrastructure.
-`Systems Analysis` · `IS Strategy` · `Change Management`
+**`[04]` Institutional Information Systems**
+Contributing to digital transformation initiatives involving workflow modernisation, systems integration, and organisational data strategy.
+`Systems Analysis` · `IS Strategy` · `Process Design`
 
 </td>
 </tr>
@@ -166,7 +166,7 @@ institution           = "University of Zambia (MSc) · University of Edenberg"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bransonb219&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bransonb219&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" height="175" alt=""/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bransonb219&theme=github-dark-blue&border=30363d&border_radius=8&hide_border=false&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="175" alt="Streak Stats"/>
 
